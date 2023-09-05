@@ -1,2 +1,2 @@
-# ANDVANCE DATA STRUCTURE
+# ADVANCE DATA STRUCTURE
 practicals of advance data  stuctures 
